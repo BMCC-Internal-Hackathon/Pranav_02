@@ -27,7 +27,7 @@ To run this website locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+https://github.com/BMCC-Internal-Hackathon/Pranav_02.git
    ```
 
 2. Navigate to the project directory:
