@@ -4,7 +4,8 @@ Sure, here's a README file for your website:
 
 # VeggieBazaar IN ❤️ - Online Vegetable Store
 
-![VeggieBazaar Logo](image/logo.png)
+![logo](https://github.com/BMCC-Internal-Hackathon/Pranav_02/assets/139959632/e6fbcb41-8161-4b9e-b53a-07fa4264e92f)
+
 
 ## Table of Contents
 - [Description](#description)
