@@ -83,6 +83,6 @@ This website is open-source and available under the [MIT License](LICENSE).
 
 
 
-![Screenshot 2023-09-10 184034](https://github.com/BMCC-Internal-Hackathon/Pranav_02/assets/139959632/1c4cfeab-dbcb-4a49-8fbb-2a324385b930)
+![Screenshot 2023-09-10 184044](https://github.com/BMCC-Internal-Hackathon/Pranav_02/assets/139959632/ab5b8bb3-5fef-4255-b498-6e86988092f8)
 
 
